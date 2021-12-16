@@ -32,3 +32,9 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="2" src="https://pbs.twimg.com/media/FGennifXoAExAkw?format=jpg&name=4096x4096" width="45%">
 </p>
+
+<p align="center">
+  <img alt="3" src="https://pbs.twimg.com/media/FGeoO47WYAA8Df2?format=jpg&name=4096x4096" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="4" src="https://pbs.twimg.com/media/FGeoWE-XMAEvtSE?format=jpg&name=4096x4096" width="45%">
+</p>
