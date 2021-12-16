@@ -19,3 +19,6 @@
 
 O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_drocha) para comunicação científica em Relações Internacionais (RI) por meio da visualização de dados. Através dela taduzimos e transmitimos conhecimento produzido no campo das RI para o público. Não só apresentamos os dados, mas contamos e traduzimos histórias e narrativas através da arte e do design. 
 
+# 01. :dove: Mais Organizações Internacionais, maior a Paz? 
+
+![https://pbs.twimg.com/media/FF66XHvXoAUZeqj?format=jpg&name=4096x4096]
