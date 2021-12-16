@@ -69,7 +69,7 @@ De qualquer maneira, para onde foi o dinheiro brasileiro?
 </p>
 <br>
 
-## 01.:dove: Mais Organizações Internacionais, maior a Paz (13 de Dez. de 2021)
+## 01.:dove: Mais Organizações Internacionais, maior a Paz? (13 de Dez. de 2021)
 <details>
 <summary>Detalhes</summary>
 <br>
