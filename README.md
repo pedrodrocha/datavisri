@@ -14,18 +14,18 @@
 <br>
 </p>
 
-
+<samp>
 # Olá, sejam bem vindos ao DatavisRI 👋 
 
 O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_drocha) para comunicação científica em Relações Internacionais (RI) por meio da visualização de dados. Através dela taduzimos e transmitimos conhecimento produzido no campo das RI para o público. Não só apresentamos os dados, mas contamos e traduzimos histórias e narrativas através da arte e do design. 
+ 
+ </samp>
 
-<details><summary>Lista de todas as visualizações</summary>
- 1. [:dove: Mais Organizações Internacionais, maior a Paz?](#-01.-Mais-Organizações-Internacionais,-maior-a-Paz?)
-  
-</details>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# 01. Mais Organizações Internacionais, maior a Paz? 
+
+# :dove: 01.Mais Organizações Internacionais, maior a Paz
 <p align = 'center'>
 <img width='45%' src=https://pbs.twimg.com/media/FF66XHvXoAUZeqj?format=jpg&name=4096x4096>
 </p>
