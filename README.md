@@ -15,23 +15,50 @@
 </p>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-# Olá, sejam bem vindos ao DatavisRI 👋 
+
+# Olá, sejam bem vindos ao DatavisRI 👋  
+
 
 O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_drocha) para comunicação científica em Relações Internacionais (RI) por meio da visualização de dados. Através dela taduzimos e transmitimos conhecimento produzido no campo das RI para o público. Não só apresentamos os dados, mas contamos e traduzimos histórias e narrativas através da arte e do design. 
- 
+<br>
+<br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<br>
 
-# :dove: 01.Mais Organizações Internacionais, maior a Paz
+# 01.:dove: Mais Organizações Internacionais, maior a Paz
+<details>
+<summary>Detalhes</summary>
+<br>
+Em 1970, Wallace e Singer¹ pela primeira vez organizaram de forma sistemática dados sobre Organizações Internacionais ao redor do mundo com o objetivo de responder uma pergunta central das RI: Mais organizações Internacionais, maior a paz ?  
+<br>
+<br>
+Embora de maneira incipiente e conscientes dos limites metodológicos, ao analisar os dados a resposta dos autores foi: não necessariamente. O número total de OIs não aparenta ter efeito a nível sistêmico no número total de conflitos armados iniciados pelos Estados.  
+<br>
+<br>
+O texto de 1970 é um ponto de partida importante para a discussão do impacto das OIs no comportamento dos Estados de maneira empírica. A literatura tem avançado bastante nos últimos anos. Porém em geral, a resposta, da pergunta levantada por Wallace e Singer continua a ser a mesma: depende, não necessariamente.  
+<br>
+<br>
+Por exemplo, para Boehmer, Gartzke e Nordstrom (2004)², o efeito concreto de uma OI depende de seu design institucional. Para outros, como Dorussen e Ward (2008) e Kinne (2013), importa mais a posição dos Estados na rede de relações criadas por sua filiação a diferentes OIs.  
+<br>
+<br>
+¹ WALLACE, M; SINGER, D. Intergovernmental Organization and the Preservation of Peace, 1816-1964: Some Bivariate Relationships. International Organization, vol.24, n.3, p.520-547, 1970.
+<br>
+<br>
+² BOEHMER, C.; GARTZKE, E.; NORDSTROM, T.Do Intergovernmental Organizations Promote Peace? World Politics, v.57, n.1, p.1-38, 2004.
+<br>
+<br>
+³ KINNE, B. IGO membership, network convergence, and credible signaling in militarized disputes. Journal of Peace Research, v.50, n.6, pp.659-676, 2013.
+</details>
+
 <p align = 'center'>
 <img width='45%' src=https://pbs.twimg.com/media/FF66XHvXoAUZeqj?format=jpg&name=4096x4096>
 </p>
+
+</details>
+
 
 
 # 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU
