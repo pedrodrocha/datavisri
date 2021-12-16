@@ -21,5 +21,14 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 
 # 01. :dove: Mais Organizações Internacionais, maior a Paz? 
 <p align = 'center'>
-<img width='450px' src=https://pbs.twimg.com/media/FF66XHvXoAUZeqj?format=jpg&name=4096x4096>
+<img width='45%' src=https://pbs.twimg.com/media/FF66XHvXoAUZeqj?format=jpg&name=4096x4096>
+</p>
+
+
+# 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU
+
+<p align="center">
+  <img alt="Light" src="https://...light.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://...dark.png" width="45%">
 </p>
