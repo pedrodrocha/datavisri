@@ -19,7 +19,7 @@
 # Olá, sejam bem vindos ao DatavisRI 👋  
 
 
-O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_drocha) para comunicação científica em Relações Internacionais (RI) por meio da visualização de dados. Através dela taduzimos e transmitimos conhecimento produzido no campo das RI para o público. Não só apresentamos os dados, mas contamos e traduzimos histórias e narrativas através da arte e do design. 
+O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_drocha) para comunicação científica em Relações Internacionais (RI) por meio da visualização de dados. Através da visualização da informação taduzimos e transmitimos conhecimento produzido no campo das RI para o público. Não só apresentamos os dados, mas contamos e traduzimos histórias e narrativas através da arte e do design. 
 <br>
 <br>
 
@@ -27,6 +27,47 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 
 
 <br>
+
+# 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU
+<details>
+<summary>Detalhes</summary>
+<br>
+Desde o começo do governo Bolsonaro, pela primeira vez em uma década a contribuição financeira do Brasil para o Sistema ONU foi abaixo de 1% do total contribuído por todos os países.
+
+<br>
+<br>
+Para além da queda substantiva na participação brasileira, dois traços chamam atenção:
+1. Os EUA seguem sendo o país com maior contribuição. É, a hegemonia tem seu preço: "para economia internacional ser estável, há de se ter um estabilizador" (Kindleberger 1973).
+<br>
+2. Especialmente a partir de 2013 vem crescendo a participação total da China. Em 2020 o país já é o 5º país com maior contribuição. Estratégia da China de aproximação com a ordem internacional liberal?
+<br>
+<br>
+Voltando para o Brasil, qual seria a razão da contribuição brasileira ter caído tanto?
+<br>
+Desde que assumiu, o gov. Bolsonaro cortou substancialmente as contribuições voluntárias do Brasil ao Sistema ONU. O país passou a contribuir somente com sua cota regular, e nada mais.
+<br> 
+<br>
+De qualquer maneira, para onde foi o dinheiro brasileiro?
+<br>
+◻ Saúde: PAHO, WHO<br>
+◻ Paz: DPKO<br>
+◻ Desenvolvimento: UNDP<br>
+<br>
+</details>
+
+
+<p align="center">
+  <img alt="1" src="https://pbs.twimg.com/media/FGenjaNXMAIweA-?format=jpg&name=4096x4096" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="2" src="https://pbs.twimg.com/media/FGennifXoAExAkw?format=jpg&name=4096x4096" width="45%">
+</p>
+
+<p align="center">
+  <img alt="3" src="https://pbs.twimg.com/media/FGeoO47WYAA8Df2?format=jpg&name=4096x4096" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="4" src="https://pbs.twimg.com/media/FGeoWE-XMAEvtSE?format=jpg&name=4096x4096" width="45%">
+</p>
+
 
 # 01.:dove: Mais Organizações Internacionais, maior a Paz
 <details>
@@ -61,16 +102,3 @@ Por exemplo, para Boehmer, Gartzke e Nordstrom (2004)², o efeito concreto de um
 
 
 
-# 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU
-
-<p align="center">
-  <img alt="1" src="https://pbs.twimg.com/media/FGenjaNXMAIweA-?format=jpg&name=4096x4096" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="2" src="https://pbs.twimg.com/media/FGennifXoAExAkw?format=jpg&name=4096x4096" width="45%">
-</p>
-
-<p align="center">
-  <img alt="3" src="https://pbs.twimg.com/media/FGeoO47WYAA8Df2?format=jpg&name=4096x4096" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="4" src="https://pbs.twimg.com/media/FGeoWE-XMAEvtSE?format=jpg&name=4096x4096" width="45%">
-</p>
