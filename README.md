@@ -21,5 +21,5 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 
 # 01. :dove: Mais Organizações Internacionais, maior a Paz? 
 <p align = 'center'>
-<img src=https://pbs.twimg.com/media/FF66XHvXoAUZeqj?format=jpg&name=4096x4096>
+<img width='100px' src=https://pbs.twimg.com/media/FF66XHvXoAUZeqj?format=jpg&name=4096x4096>
 </p>
