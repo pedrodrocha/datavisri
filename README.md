@@ -5,12 +5,13 @@
 <a href="https://twitter.com/datavisri">
 <img align="center" alt="DatavisRI | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/company/80769419/">
-<img align="center" alt="DatavisRI" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://www.instagram.com/datavisri/">
 <img align="center" alt="DatavisRI" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+ <a href="https://www.linkedin.com/company/80769419/">
+<img align="center" alt="DatavisRI" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 <br>
 </p>
 
