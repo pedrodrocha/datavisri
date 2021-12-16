@@ -29,7 +29,7 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 
 <br>
 
-## 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU (06 de Dez. de 2021)
+## 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU (13 de dez. de 2021)
 <details>
 <summary>Detalhes</summary>
 <br>
@@ -70,7 +70,7 @@ De qualquer maneira, para onde foi o dinheiro brasileiro?
 </p>
 <br>
 
-## 01.:dove: Mais Organizações Internacionais, maior a Paz? (13 de Dez. de 2021)
+## 01.:dove: Mais Organizações Internacionais, maior a Paz? (06 de dez. de 2021)
 <details>
 <summary>Detalhes</summary>
 <br>
