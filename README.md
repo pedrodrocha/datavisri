@@ -28,7 +28,7 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 # 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU
 
 <p align="center">
-  <img alt="Light" src="https://...light.png" width="45%">
+  <img alt="1" src="https://pbs.twimg.com/media/FGenjaNXMAIweA-?format=jpg&name=4096x4096" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://...dark.png" width="45%">
+  <img alt="2" src="https://pbs.twimg.com/media/FGennifXoAExAkw?format=jpg&name=4096x4096" width="45%">
 </p>
