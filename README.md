@@ -37,7 +37,7 @@ Desde o começo do governo Bolsonaro, pela primeira vez em uma década a contrib
 
 <br>
 <br>
-Para além da queda substantiva na participação brasileira, dois traços chamam atenção:
+Para além da queda substantiva na participação brasileira, dois traços chamam atenção:<br>
 1. Os EUA seguem sendo o país com maior contribuição. É, a hegemonia tem seu preço: "para economia internacional ser estável, há de se ter um estabilizador" (Kindleberger 1973).
 <br>
 2. Especialmente a partir de 2013 vem crescendo a participação total da China. Em 2020 o país já é o 5º país com maior contribuição. Estratégia da China de aproximação com a ordem internacional liberal?
