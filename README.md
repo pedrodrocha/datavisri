@@ -15,6 +15,4 @@
 </p>
 
 
-# DatavisRI
-
-**Olá, sejam bem vindos ao DatavisRI** 👋 
+# Olá, sejam bem vindos ao DatavisRI 👋 
