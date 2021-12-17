@@ -71,7 +71,9 @@ De qualquer maneira, para onde foi o dinheiro brasileiro?
 </p>
 <br>
 
-[(Código)](https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/02/R)  
+<p align="center">
+ <a href="https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/02/R">(Código)</a>  
+</p>
 
 ## 01.:dove: Mais Organizações Internacionais, maior a Paz? (06 de dez. de 2021)
 
@@ -105,5 +107,8 @@ Por exemplo, para Boehmer, Gartzke e Nordstrom (2004)², o efeito concreto de um
 
 </details>
 
-[(Código)](https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/01/R/01.R)
+<p align="center">
+ <a href="https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/01/R/01.R">(Código)</a>  
+</p>
+
 
