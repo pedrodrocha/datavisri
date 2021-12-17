@@ -96,7 +96,7 @@ Por exemplo, para Boehmer, Gartzke e Nordstrom (2004)², o efeito concreto de um
 </details>
 
 <p align = 'center'>
-<img width='50%' src=https://pbs.twimg.com/media/FF66XHvXoAUZeqj?format=jpg&name=4096x4096>
+<img width='50%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/01/plot/01.png>
 </p>
 
 </details>
