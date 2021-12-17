@@ -29,7 +29,8 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 
 <br>
 
-## 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU (13 de dez. de 2021)
+## 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU (13 de dez. de 2021)]
+[(Código)](https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/02/R)
 <details>
 <summary>Detalhes</summary>
 <br>
@@ -58,15 +59,15 @@ De qualquer maneira, para onde foi o dinheiro brasileiro?
 
 
 <p align="center">
-  <img alt="1" src="https://pbs.twimg.com/media/FGenjaNXMAIweA-?format=jpg&name=4096x4096" width="45%">
+  <img alt="1" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/02/plot/line.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="2" src="https://pbs.twimg.com/media/FGennifXoAExAkw?format=jpg&name=4096x4096" width="45%">
+  <img alt="2" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/02/plot/bump.png" width="45%">
 </p>
 
 <p align="center">
-  <img alt="3" src="https://pbs.twimg.com/media/FGeoO47WYAA8Df2?format=jpg&name=4096x4096" width="45%">
+  <img alt="3" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/02/plot/corenoncore.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="4" src="https://pbs.twimg.com/media/FGeoWE-XMAEvtSE?format=jpg&name=4096x4096" width="45%">
+  <img alt="4" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/02/plot/treemap.png" width="45%">
 </p>
 <br>
 
