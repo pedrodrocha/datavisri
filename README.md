@@ -30,7 +30,7 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 <br>
 
 ## 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU (13 de dez. de 2021)]
-[(Código)](https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/02/R)
+
 <details>
 <summary>Detalhes</summary>
 <br>
@@ -70,9 +70,9 @@ De qualquer maneira, para onde foi o dinheiro brasileiro?
   <img alt="4" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/02/plot/treemap.png" width="45%">
 </p>
 <br>
-
+[(Código)](https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/02/R)
 ## 01.:dove: Mais Organizações Internacionais, maior a Paz? (06 de dez. de 2021)
-[(Código)](https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/01/R/01.R)
+
 <details>
 <summary>Detalhes</summary>
 <br>
@@ -103,5 +103,5 @@ Por exemplo, para Boehmer, Gartzke e Nordstrom (2004)², o efeito concreto de um
 
 </details>
 
-
+[(Código)](https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/01/R/01.R)
 
