@@ -72,7 +72,7 @@ De qualquer maneira, para onde foi o dinheiro brasileiro?
 <br>
 
 <p align="center">
- <a href="https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/02/R">(Código)</a>  
+ <a style='color:red' href="https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/02/R">(Código)</a>  
 </p>
 
 ## 01.:dove: Mais Organizações Internacionais, maior a Paz? (06 de dez. de 2021)
