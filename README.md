@@ -29,6 +29,53 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 
 <br>
 
+## 03. :world_map: A ascensão chinesa e a Armadilha de Tucídides (20 de dez. de 2021)
+
+<details>
+<summary>Detalhes</summary>
+<br>
+Foi a ascensão de Atenas e o medo que isso provocou em Esparta que tornou a guerra inevitável”, Tucídides - História da Guerra do Peloponeso
+<br>
+<br>
+Esse é o ponto de partida para Graham Allison (2017) discutir o impacto da ascensão Chinesa na política internacional contemporânea.
+<br>
+<br>
+A "armadilha de Tucídides" é um conceito elaborado pelo autor inspirado na intuição do general e historiador Ateniense Tucídides para explicar as causas da Guerra do Peloponeso entre Atenas e Esparta.
+<br>
+<br>
+No Século 5 a.c, Atenas crescia em meio as Cidades-Estado gregas com um poder naval cada vez mais robusto.Em paralelo, o crescimento de Atenas trazia medo e insegurança para Esparta, poder terrestre já estabelecido.Dessa dinâmica, germinava as causas da Guerra do Peloponeso: Atenas precisava de espaço para crescer e se consolidar; Esparta percebia a postura de Atenas como injustificada, ingrata e ameaçadora.
+<br>
+<br>
+Na história, Allison identificou 16 casos semelhantes ao conflito entre Atenas e Esparta. São situações de transição de poder, onde uma potência emergente (Atenas), ameaça as pretensões de um poder já instituído (Esparta). Dos 16 casos, somente 4 não escalaram para Guerra.
+
+<br> 
+<br>
+Atualmente vivemos mais um período de transição de poder. A China vem crescendo de forma acelerada, demandando novas posições que reflitam seu novo status global. Os EUA, por sua vez, tendem a perceber as aspirações chinesas como injustificadas e ameaçadoras.
+<br> 
+<br>
+Dada a situação, seria então o conflito armado entre EUA e China inevitável? Não necessariamente, depende de como ambos os países irão decidir lidar com a situação, mas as consequências dessa decisão moldarão a ordem internacional no Séc XXI.
+<br>
+<br>
+Quer mais informações?
+ <br>
+◽ Artigo original do Allison no The Atlantic (2015): https://bit.ly/3GunA0E
+<br>
+◽ Materiais suplementares do Harvard Belfer Center: https://bit.ly/3ybfpTV
+<br>
+◽ Livro de 2017: https://amzn.to/3IDlmho
+ 
+<br>
+</details>
+
+<p align = 'center'>
+<img width='80%'src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/03/plot/01.png>
+</p>
+<br>
+
+<p align="center">
+ <a href="https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/03/R/script.R">(Código)</a>  
+</p>
+
 ## 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU (13 de dez. de 2021)]
 
 <details>
