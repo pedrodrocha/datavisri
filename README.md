@@ -29,6 +29,38 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 
 <br>
 
+## 04. :busts_in_silhouette: A crise de refugiados da Venezuela (27 de dez. de 2021)
+
+<details>
+<summary>Detalhes</summary>
+<br>
+A Venezuela vive hoje a maior crise de refugiados fora do contexto de guerra da história recente.Já são 5.9 milhões de refugiados e imigrantes no mundo todo, e 2.5 milhões de pessoas em situação irregular só nas Américas.
+<br>
+<br>
+Em 2021, quase 190 mil pessoas foram reconhecidas como refugiadas no mundo todo pelo ACNUR. As Américas é a região mais impactada, embora a Espanha foi o principal país receptor no ano.
+<br>
+<br>
+Nas Américas, o Brasil foi o principal país receptor, seguido de EUA, e México. 
+<br> 
+<br> 
+O grande desafio em 2022  será criar estratégias regionais para receber e dar condições de vida para os quase 2 milhões de Venezuelanos em condição irregular em todo o continente. 
+<br>
+</details>
+
+<br>
+
+<p align="center">
+ <img alt="1" width='45%'src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/04/plot/plot1_roxo.png>
+ &nbsp; &nbsp; &nbsp; &nbsp;
+ <img alt="2" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/04/plot/plot3.png" width="45%">
+ <br><br>
+  <img alt="3" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/04/plot/plot2.png" width="45%">
+</p>
+
+<p align="center">
+ <a href="https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/04/R">(Código)</a>  
+</p>
+
 ## 03. :world_map: A ascensão chinesa e a Armadilha de Tucídides (20 de dez. de 2021)
 
 <details>
