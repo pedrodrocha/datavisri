@@ -56,7 +56,7 @@ Na América do Sul, Boric se compara a B. Brum (36 anos em 1919),A. G. Pérez (3
 </p>
 
 <p align = 'left'>
-<img width='50%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/05/output/post_figma.png>
+<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/05/output/post_figma.png>
 </p>
 
 </details>
