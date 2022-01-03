@@ -29,6 +29,39 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 
 <br>
 
+## 05.:classical_building: A Eleição de Gabriel Boric no Chile (03 de jan. de 2021)
+
+<details>
+<summary>Detalhes</summary>
+@gabrielboric foi eleito presidente do Chile em 19 de dez. de 2021. Em 2022, fará 36 anos e se tornará o político mais novo a assumir o poder no país. Seria Boric também o político mais novo na história a assumir o poder na América do Sul? Não!
+<br>
+<br>
+Ele será um dos mais novos, mas não o mais novo a chegar ao poder na América do Sul.
+<br>
+Essa marca pertence a dois presidentes bolivianos:
+<br>
+◻ Germán Busch Becerra (33 anos em 1937)
+<br>
+◻ Gualberto Villarroel López (35 anos em 1943).
+<br>
+<br>
+No Chile, antes de Boric, os políticos mais novos a assumirem o poder haviam sido Germán Riesco (47 anos em 1901) e Gabriel Videla (48 anos em 1946).
+<br>
+<br>
+Na América do Sul, Boric se compara a B. Brum (36 anos em 1919),A. G. Pérez (36 anos em 1985) e L. Plaza (36 anos em 1901).
+</details>
+
+<p align="left">
+ <a href="https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/05/R/jitter.R">(Código)</a>  
+</p>
+
+<p align = 'left'>
+<img width='50%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/05/output/post_figma.png>
+</p>
+
+</details>
+
+
 ## 04. :busts_in_silhouette: A crise de refugiados da Venezuela (27 de dez. de 2021)
 
 <details>
@@ -47,19 +80,20 @@ O grande desafio em 2022  será criar estratégias regionais para receber e dar 
 <br>
 </details>
 
-<br>
+<p>
+ <a href="https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/04/R">(Código)</a>  
+</p>
 
-<p align="center">
+<p align="left">
  <img alt="1" width='45%'src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/04/plot/plot1_roxo.png>
  &nbsp; &nbsp; &nbsp; &nbsp;
  <img alt="2" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/04/plot/plot3.png" width="45%">
  <br><br>
   <img alt="3" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/04/plot/plot2.png" width="45%">
+ 
 </p>
 
-<p align="center">
- <a href="https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/04/R">(Código)</a>  
-</p>
+
 
 ## 03. :world_map: A ascensão chinesa e a Armadilha de Tucídides (20 de dez. de 2021)
 
@@ -98,15 +132,14 @@ Quer mais informações?
  
 <br>
 </details>
-
-<p align = 'center'>
-<img width='80%'src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/03/plot/01.png>
+<p align="left">
+ <a href="https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/03/R/script.R">(Código)</a>  
+</p>
+<p align = 'left'>
+<img width='100%'src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/03/plot/01.png>
 </p>
 <br>
 
-<p align="center">
- <a href="https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/03/R/script.R">(Código)</a>  
-</p>
 
 ## 02. :money_with_wings: O Brasil e o financiamento do Sistema ONU (13 de dez. de 2021)]
 
@@ -135,24 +168,24 @@ De qualquer maneira, para onde foi o dinheiro brasileiro?
 ◻ Desenvolvimento: UNDP<br>
 <br>
 </details>
+<p align="left">
+ <a href="https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/02/R">(Código)</a>  
+</p>
 
 
-<p align="center">
+<p align="left">
   <img alt="1" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/02/plot/line.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="2" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/02/plot/bump.png" width="45%">
 </p>
 
-<p align="center">
+<p align="left">
   <img alt="3" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/02/plot/corenoncore.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="4" src="https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/02/plot/treemap.png" width="45%">
 </p>
 <br>
 
-<p align="center">
- <a href="https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/02/R">(Código)</a>  
-</p>
 
 ## 01.:dove: Mais Organizações Internacionais, maior a Paz? (06 de dez. de 2021)
 
@@ -180,14 +213,16 @@ Por exemplo, para Boehmer, Gartzke e Nordstrom (2004)², o efeito concreto de um
 ³ KINNE, B. IGO membership, network convergence, and credible signaling in militarized disputes. Journal of Peace Research, v.50, n.6, pp.659-676, 2013.
 </details>
 
-<p align = 'center'>
+<p align="left">
+ <a href="https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/01/R/01.R">(Código)</a>  
+</p>
+
+<p align = 'left'>
 <img width='50%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/01/plot/01.png>
 </p>
 
 </details>
 
-<p align="center">
- <a href="https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/01/R/01.R">(Código)</a>  
-</p>
+
 
 
