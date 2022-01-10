@@ -29,7 +29,7 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 
 <br>
 
-## 06. : A América Latina é uma região pacífica? (10 de jan. de 2022)
+## 06. :triangular_flag_on_post: : A América Latina é uma região pacífica? (10 de jan. de 2022)
 
 <details>
 <summary>Detalhes</summary>
