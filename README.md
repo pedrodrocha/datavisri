@@ -29,7 +29,24 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 
 <br>
 
-## 05.:classical_building: A Eleição de Gabriel Boric no Chile (03 de jan. de 2021)
+## 06. : A América Latina é uma região pacífica? (10 de jan. de 2022)
+
+<details>
+<summary>Detalhes</summary>
+A América Latina é frequentemente tratada na literatura como zona de paz, onde a guerra e confrontos armados entre os Estados são raros. No entanto, a ideia da "longa paz" regional mascara o alto índice de violência intraestatal no continente. 
+<p> Dados: <a href="https://acleddata.com/">@ACLEDINFO</a>  </p> 
+</details>
+
+<p align="left">
+ <a href="https://github.com/pedrodrocha/datavisri/tree/main/Hist%C3%B3rias/06/code">(Código)</a>  
+</p>
+
+<p align = 'left'>
+<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/06/output/map_illustrator.png>
+</p>
+
+
+## 05.:classical_building: A Eleição de Gabriel Boric no Chile (03 de jan. de 2022)
 
 <details>
 <summary>Detalhes</summary>
