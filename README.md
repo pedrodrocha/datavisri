@@ -17,10 +17,10 @@
 
 <br>
 
-# Olá, sejam bem-vindos ao DatavisRI 👋  
+# Olá, sejam bem-vindos ao VisRI 👋  
 
 
-O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_drocha) para comunicação científica em Relações Internacionais (RI) por meio da visualização de dados. Através dela transmitimos conhecimento produzido no campo das RI para o público. Não só apresentamos os dados, mas contamos e traduzimos histórias e narrativas. 
+O VisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_drocha) para comunicação científica em Relações Internacionais (RI) por meio da visualização de dados. Através dela transmitimos conhecimento produzido no campo das RI para o público. Não só apresentamos os dados, mas contamos e traduzimos histórias e narrativas. 
 <br>
 <br>
 
