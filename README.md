@@ -24,7 +24,7 @@ O DatavisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_
 <br>
 <br>
 
-:exclamation: Em todo o material se aplica a Licença Internacional Creative Commons Attribution BY 4.0 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+:exclamation: Em todo o material se aplica a Licença Internacional Creative Commons Atribuição BY-SA 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
 
 # Veja todas nossas histórias:
 
