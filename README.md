@@ -32,6 +32,46 @@ O VisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_droc
 
 <br>
 
+## 07. :united_nations: A composição do Conselho de Segurança das Nações Unidas em 2022 (17 de jan. de 2022)
+
+<details>
+<summary>Detalhes</summary>
+Em Janeiro, o Brasil 🇧🇷 voltou a ocupar assento rotativo no Conselho de Segurança das Nações Unidas. É sua 11ª passagem, sendo o país não-permanente com maior experiência no órgão.
+
+Junto do Brasil, assumem de forma rotativa outros 4 países eleitos em 2021: 🇦🇱🇬🇦🇬🇭🇦🇪
+
+O que é o Conselho de Segurança?
+
+É um dos principais órgãos das Nações Unidas e atua em questões relacionadas a manutenção da paz e da segurança internacional: fomenta negociações, impõe sanções, autoriza o uso da força e a implementação de missões de paz...
+
+Quais países compõem o Conselho de Segurança?
+
+O Conselho possui cinco membros com status permanente e que possuem poder de veto, o chamado P5: Estados Unidos🇺🇸, China 🇨🇳, França 🇫🇷, Rússia 🇷🇺 e Reino Unido 🇬🇧.
+
+Outros 10 membros com status rotativo são eleitos pela Assembleia Geral da ONU todos os anos. Eles são divididos regionalmente, não possuem poder de veto e quando eleitos assumem mandatos de 2 anos.
+
+Atualmente são membros rotativos:
+Brasil 🇧🇷 e México 🇲🇽(América Latina)
+Gabão 🇬🇦e Gana 🇬🇭 (África)
+Albânia 🇦🇱 (Leste Europeu)
+EAU 🇦🇪e Índia 🇮🇳(Ásia-Pacífico)
+Irlanda 🇮🇪 e Noruega 🇳🇴(Europa Ocidental e Outros)
+Quênia 🇰🇪 (África ou Ásia-Pacífico)
+
+Que mais informações? O <a href="https://gedes-unesp.org/dicionario-de-seguranca-e-defesa/">Dicionário de Segurança e Defesa</a> do <a href="https://gedes-unesp.org/">GEDES</a> tem ótima entrada introdutória sobre o Conselho de Segurança! 
+ 
+</details>
+
+<p align="left">
+ <a href="https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/07/script/plot.R">(Código)</a>  
+</p>
+
+<p align = 'left'>
+<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/07/plot/final.png>
+</p>
+
+
+
 ## 06. :triangular_flag_on_post: A América Latina é uma região pacífica? (10 de jan. de 2022)
 
 <details>
