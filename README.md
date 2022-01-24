@@ -28,6 +28,37 @@ O VisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_droc
 
 # Veja todas nossas histórias:
 
+## 08. :bomb: Nós temos a bomba, e nós podemos ter (24 de jan. de 2022)
+
+<details>
+<summary>Detalhes</summary>
+Na história, somente 10 países desenvolveram armamentos nucleares mas outros 32 tem ou já tiveram em algum momento a capacidade de fazê-lo.
+<br>
+
+Fuhrmann e Tkach (2015) chamam essa capacidade de latência nuclear e a descrevem como a habilidade de produzir material físsil. 
+
+Os 10 países que transformaram sua latência nuclear em arsenal nuclear são: Estados Unidos🇺🇸, Rússia🇷🇺Reino Unido🇬🇧, França🇫🇷, China🇨🇳, Israel🇮🇱, África do Sul🇿🇦*, Paquistão🇵🇰, Índia🇮🇳 e Coréia do Norte🇰🇵.
+
+*A África do Sul 🇿🇦 abriu mão de seu arsenal nuclear em 1991
+
+Hoje, outros 9 países possuem latência nuclear: África do Sul🇿🇦, Alemanha🇩🇪, Japão🇯🇵, Holanda🇳🇱, Irã🇮🇷, Brasil🇧🇷, Coréia do Sul🇰🇷, Egito🇪🇬 e Argélia🇩🇿. A latência nuclear Iraniana 🇮🇷 é uma das questões centrais da política internacional contemporânea.
+
+Outros 14 países já tiveram a capacidade de produzir material físsil mas abriram mão de sua latência nuclear: Argentina 🇦🇷, Austrália🇦🇺, Bélgica🇧🇪, Canadá🇨🇦, República Tcheca🇨🇿, Itália🇮🇹, Líbia🇱🇾, Noruega🇳🇴, Romênia🇷🇴, Espanha🇪🇸, Suécia🇸🇪, Taiwan🇹🇼 e a antiga Iugoslávia
+
+Tais países são exemplos importantes de serem lembrados no mês em que o Tratado sobre a Proibição de Armas Nucleares (TPAN) completa 1 ano de entrada em vigor
+
+Quer mais informações?
+- Matt Fuhrmann e Benjamin Tkach. Almost nuclear: Introducing the Nuclear Latency dataset
+ 
+</details>
+
+<p align="left">
+ <a href="https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/08/script/plot.R">(Código)</a>  
+</p>
+
+<p align = 'left'>
+<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/08/plot/plot.png>
+</p>
 
 
 <br>
