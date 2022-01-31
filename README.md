@@ -28,6 +28,32 @@ O VisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_droc
 
 # Veja todas nossas histórias:
 
+## 09. :handshake: A era das desculpas (31 de jan. de 2022)
+
+<details>
+<summary>Detalhes</summary>
+ 
+Desde a década de 1990 os Estados estão cada vez mais reconhecendo sua culpa por violações aos direitos humanos cometidas no passado. Embora não possa desfazer o que já aconteceu, o ato é importante para processos de justiça restaurativa e reconciliação. Grande parte (49%) dos gestos de desculpas se referem a VDH cometidas em período de guerra e foram proferidos por chefes de estado ou chefes de governo em contexto de visitas diplomáticas ou datas comemorativas.
+ 
+Quer mais informações?
+- Zoodsma e Schaafsma (2021), "Examining the ‘age of apology’"(https://journals.sagepub.com/doi/full/10.1177/00223433211024696)
+
+- MariekeZoodsma et al (2021), "These Are Not Just Words"(https://rips-rsp.com/articles/10.5334/irsp.503/)
+
+ </details>
+
+<p align="left">
+ <a href="https://github.com/pedrodrocha/datavisri/blob/main/Hist%C3%B3rias/09/script/R.R">(Código)</a>  
+</p>
+
+<p align = 'left'>
+<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/09/plot/plot.png>
+</p>
+
+
+<br>
+
+
 ## 08. :bomb: Nós temos a bomba, e nós podemos ter (24 de jan. de 2022)
 
 <details>
