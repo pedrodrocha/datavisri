@@ -27,6 +27,7 @@ O VisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_droc
 :exclamation: Em todo o material se aplica a Licença Internacional Creative Commons Atribuição BY-SA 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
 
 # Veja todas nossas histórias:
+<br><br>
 
 ## 09. :handshake: A era das desculpas (31 de jan. de 2022)
 
