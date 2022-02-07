@@ -1,4 +1,4 @@
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d5805753-96f4-4fcd-ab9d-a7601c50c81f/Prancheta_1banner1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T201820Z&X-Amz-Expires=86400&X-Amz-Signature=fee0ab0533104640830184e76cf803af3bd34621b54a5a408440e84aab005644&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Prancheta%25201banner1.png%22&x-id=GetObject)
+![](https://pbs.twimg.com/profile_banners/1467814399788388354/1642882582/1080x360)
 
 <p align="center">
 <br>
