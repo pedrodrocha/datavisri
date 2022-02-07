@@ -1,4 +1,4 @@
-![alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d5805753-96f4-4fcd-ab9d-a7601c50c81f/Prancheta_1banner1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T201820Z&X-Amz-Expires=86400&X-Amz-Signature=fee0ab0533104640830184e76cf803af3bd34621b54a5a408440e84aab005644&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Prancheta%25201banner1.png%22&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d5805753-96f4-4fcd-ab9d-a7601c50c81f/Prancheta_1banner1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T201820Z&X-Amz-Expires=86400&X-Amz-Signature=fee0ab0533104640830184e76cf803af3bd34621b54a5a408440e84aab005644&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Prancheta%25201banner1.png%22&x-id=GetObject)
 
 <p align="center">
 <br>
@@ -28,6 +28,30 @@ O VisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_droc
 
 # Veja todas nossas histórias:
 <br><br>
+
+## 10. :warning: 5 eleições para se ter atenção em 2022 (07 de fev. de 2022)
+
+<details>
+<summary>Detalhes</summary>
+ 
+Casos de violência em meio a processos eleitorais comprometem seus resultados e a própria democracia. Seus efeitos são ainda mais danosos em casos letais, pois a perda de vidas impõe mudanças qualitativas irreversíveis na dinâmica social de um país.
+
+O gráfico computa os cinco países com processos eleitorais ativos em 2022 que mais apresentaram casos de violência letal relacionados a eleições entre 1989 e 2017. São lugares importantes para se ter de olho e acompanhar os desdobramentos da disputa política ao longo do ano.
+
+A índia é o país com maior número de casos registrados, tendo eleições presidenciais e parlamentares previstas para Julho. Na América Latina, há que se ter atenção na eleição presidencial de março na Colômbia e ao conflito interno que se estende no país já por algumas décadas.
+
+Embora a violência política no Brasil tenha crescido nos últimos anos, a base do DECO registrou somente dois casos de violência letal diretamente relacionadas ao processo eleitoral. Casos letais não envolvendo eleições, como o de Marielle Franco, não estão computados.
+
+Quer mais informações?
+
+- Hanne Fjelde e Kristine Hoglund, "Introducing the Deadly Electoral Conflict Dataset (DECO)" (https://doi.org/10.1177/00220027211021620)
+
+ </details>
+
+<p align = 'left'>
+<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/10/output/Prancheta%202.png>
+</p>
+
 
 ## 09. :handshake: A era das desculpas (31 de jan. de 2022)
 
