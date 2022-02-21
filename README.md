@@ -29,6 +29,45 @@ O VisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_droc
 # Veja todas nossas histórias:
 <br><br>
 
+## 12. :globe_with_meridians: O Conselho de Segurança e as Operações de Paz da ONU  (21 de fev. de 2022)
+
+<details>
+<summary>Detalhes</summary>
+ 
+O VisRI dessa semana explora o acumulado de resoluções e decisões do Conselho de Segurança das Nações Unidas com tema peacekeeping, peacebuilding e peacemaking e disponíveis na coleção da [Biblioteca Virtual da ONU](https://digitallibrary.un.org).
+
+Os dados foram coletados e compilados por mim já a algum tempo. Nos possibilitam explorar de um ponto de vista diferente a maneira pela qual se progrediu a concepção do Conselho de Segurança acerca das op. de paz, e as atividades foco de sua atuação em seg. internacional.
+
+Sobre a progressão histórica e tipificação das operações de paz, recomendo fortemente o já clássico artigo de Kai Kenkel na Contexto Internacional: [Five generations of peace operations: from the "thin blue line" to "painting a country blue"](https://scielo.br/j/rbpi/a/mTGNK7hRXJBmJvmQmdQCZrh/)
+
+</details>
+
+<p align = 'left'>
+<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/12/output/plot.png>
+</p>
+
+
+
+## 11. :currency_exchange: sobre a dependência energética da Europa em relação a Rússia  (14 de fev. de 2022)
+
+<details>
+<summary>Detalhes</summary>
+ 
+A dependência energética na Rússia é uma das principais vulnerabilidades da União Europeia e um constrangimento nos cursos de ação disponíveis para o bloco frente a crise na Ucrânia.
+
+Por exemplo, é difícil para a UE achar alternativas para importação de gás natural barato e em grande quantidade, principalmente quando empresas russas, como a Gazprom, controlam a infraestrutura e o mercado energético da região.
+
+No último ano se diversificou a origem do gás natural consumido na UE e caiu a participação da Rússia no volume total importado. Porém, o país ainda é fonte de cerca de 25% do total e seu controle sobre os principais gasodutos coloca em risco a seg. energética do bloco.
+
+Quer mais informações? [Bruegel](https://www.bruegel.org/publications/datasets/european-natural-gas-imports/)
+
+</details>
+
+<p align = 'left'>
+<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/11/output/plot.png>
+</p>
+
+
 ## 10. :warning: 5 eleições para se ter atenção em 2022 (07 de fev. de 2022)
 
 <details>
