@@ -29,6 +29,49 @@ O VisRI é um projeto criado por [Pedro D. Rocha](https://twitter.com/pedro_droc
 # Veja todas nossas histórias:
 <br><br>
 
+## 13. :stop_sign: Sobre a efetividade de sanções aplicadas com o objetivo de prevenir ou terminar a guerra  (28 de fev. de 2022)
+
+<details>
+<summary>Detalhes</summary>
+ 
+ Em contexto do aumento recente das sanções contra a Rússia, o VisRI dessa semana abre discussão sobre o uso de sanções com o objetivo de prevenir ou terminar a guerra.
+
+Dados: GSDB (Felbermayr, Kirilakha, Syropoulos, Yalcin e Yotov 2020).
+
+Como destaca Felbermayr et al (2020), sanções são instrumento importante de diplomacia coercitiva e tem como objetivo exercer pressão política no Estado-alvo e influenciar dinâmicas e o resultado de processos de negociação.
+
+No entanto, quando se trata de sanções com o objetivo de prevenir ou terminar guerras, não há na literatura evidência conclusiva de que são instrumentos eficientes. Pelo contrário, autores como Hultman e Peksen (2015) argumentam que elas podem ter efeito contrário do esperado.
+
+Principalmente quando se restringem a sanções econômicas e não envolvem um pacote mais estruturado é possível que elas contribuam para o aumento na intensidade da violência empregada em conflitos armados.
+
+Quer mais informações?
+Sobre sanções e a base de dados utilizada:
+- [Site do GSDB](https://globalsanctionsdatabase.com/)
+- [Artigo original do GSDB](https://doi.org/10.1016/j.euroecorev.2020.103561)
+- [Artigo atualizado do GSDB](https://ideas.repec.org/p/ris/drxlwp/2021_010.html)
+
+Sobre sanções em contexto de guerra:
+
+- ["Sanctions, Signals, and Militarized Conflict"](https://doi.org/10.1111/j.1540-5907.2007.00259.x)
+
+- ["Successful or Counterproductive Coercion? The Effect of International Sanctions on Conflict Intensity"](https://doi.org/10.1177/0022002715603453)
+
+Sobre os efeitos e a efetividade das sanções aplicadas nos últimos anos à Rússia e ao Irã:
+
+- ["Can Economic Sanctions be Effective?"](https://doi.org/10.30875/0b967ac6-en)
+
+- ["On the Heterogeneous Effects of Sanctions on Trade and Welfare..."](https://ideas.repec.org/p/ris/drxlwp/2020_004.html)
+ 
+
+</details>
+
+<p align = 'left'>
+<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/13/output/plot.png>
+</p>
+
+
+
+
 ## 12. :globe_with_meridians: O Conselho de Segurança e as Operações de Paz da ONU  (21 de fev. de 2022)
 
 <details>
