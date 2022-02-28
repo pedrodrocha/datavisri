@@ -66,7 +66,7 @@ Sobre os efeitos e a efetividade das sanções aplicadas nos últimos anos à R�
 </details>
 
 <p align = 'left'>
-<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/13/output/plot.png>
+<img width='60%' src=https://raw.githubusercontent.com/pedrodrocha/datavisri/main/Hist%C3%B3rias/13/output/plot1.png>
 </p>
 
 
